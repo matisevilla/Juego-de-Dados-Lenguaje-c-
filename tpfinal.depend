@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1719780354 source:c:\users\matis\onedrive\escritorio\facultad\laboratorio\tpfinal\main.cpp
+	<iostream>
+	<ctime>
+	"puntaje.h"
+	"modos.h"
+	"menu.h"
+
+1719780885 c:\users\matis\onedrive\escritorio\facultad\laboratorio\tpfinal\modos.h
+
+1719780898 c:\users\matis\onedrive\escritorio\facultad\laboratorio\tpfinal\menu.h
+
+1719781198 c:\users\matis\onedrive\escritorio\facultad\laboratorio\tpfinal\puntaje.h
+
+1719791840 source:c:\users\lucas\downloads\tpfinal\main.cpp
+	<iostream>
+	<ctime>
+	"puntaje.h"
+	"modos.h"
+	"menu.h"
+
+1719954816 c:\users\lucas\downloads\tpfinal\puntaje.h
+
+1719954735 c:\users\lucas\downloads\tpfinal\modos.h
+
+1719954203 c:\users\lucas\downloads\tpfinal\menu.h
+
+1719791840 source:c:\users\admin\desktop\tpfinal\main.cpp
+	<iostream>
+	<ctime>
+	"puntaje.h"
+	"modos.h"
+	"menu.h"
+
+1719868587 c:\users\admin\desktop\tpfinal\puntaje.h
+
+1719868653 c:\users\admin\desktop\tpfinal\modos.h
+
+1719862529 c:\users\admin\desktop\tpfinal\menu.h
+
+1719791840 source:c:\users\admin\desktop\tpfinal-v3\main.cpp
+	<iostream>
+	<ctime>
+	"puntaje.h"
+	"modos.h"
+	"menu.h"
+
+1720040071 c:\users\admin\desktop\tpfinal-v3\puntaje.h
+
+1720040071 c:\users\admin\desktop\tpfinal-v3\modos.h
+
+1720037734 c:\users\admin\desktop\tpfinal-v3\menu.h
+
+1719791840 source:c:\users\lucas\downloads\tpfinal-v4\main.cpp
+	<iostream>
+	<ctime>
+	"puntaje.h"
+	"modos.h"
+	"menu.h"
+
+1720040071 c:\users\lucas\downloads\tpfinal-v4\puntaje.h
+
+1720122417 c:\users\lucas\downloads\tpfinal-v4\modos.h
+
+1720037734 c:\users\lucas\downloads\tpfinal-v4\menu.h
+
+1720124682 source:c:\users\lucas\downloads\tpfinal-v5 - con rlutil\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"puntaje.h"
+	"modos.h"
+	"menu.h"
+
+1720125644 c:\users\lucas\downloads\tpfinal-v5 - con rlutil\puntaje.h
+
+1720125029 c:\users\lucas\downloads\tpfinal-v5 - con rlutil\modos.h
+
+1720124661 c:\users\lucas\downloads\tpfinal-v5 - con rlutil\menu.h
+
+1718661168 c:\users\lucas\downloads\tpfinal-v5 - con rlutil\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720124682 source:c:\users\lucas\downloads\tpfinal-v5 - con dados rlutil\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"puntaje.h"
+	"modos.h"
+	"menu.h"
+
+1718661168 c:\users\lucas\downloads\tpfinal-v5 - con dados rlutil\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720135154 c:\users\lucas\downloads\tpfinal-v5 - con dados rlutil\puntaje.h
+
+1720133852 c:\users\lucas\downloads\tpfinal-v5 - con dados rlutil\modos.h
+
+1720135096 c:\users\lucas\downloads\tpfinal-v5 - con dados rlutil\menu.h
+
